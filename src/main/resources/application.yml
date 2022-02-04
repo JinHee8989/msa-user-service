@@ -5,6 +5,7 @@ spring:
   application:
     name: user-service
 
+
 eureka:
   client:
     register-with-eureka: true #eureka에 등록하겠다는 의미
