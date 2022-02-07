@@ -1,5 +1,5 @@
 server:
-  port: 9001
+  port: 0 # 0은 랜덤포트를 사용하겠다는 뜻
 
 spring:
   application:
